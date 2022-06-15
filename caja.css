@@ -1,0 +1,10 @@
+p {
+  display: inline-block;
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  font-family: georgia,cambria,serif;
+}
+.fa-brands{
+  background-color: aquamarine;
+}
